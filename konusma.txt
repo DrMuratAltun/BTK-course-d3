@@ -1,0 +1,1 @@
+Merhaba ben yapay zekâ asistanınızım. beteka Akademi tarafından Antalyada düzenlenen Python ile İleri Makine Öğrenmesi Atölyesine hoşgeldiniz.
